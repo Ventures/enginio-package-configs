@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "type": "objects.todos"
+  },
+  "objects": [
+    {
+      "object": {
+      	"title": "Remember the milk",
+        "completed": false
+	    }
+    }
+  ]
+}

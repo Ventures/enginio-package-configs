@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "type": "schemas"
+  },
+  "objects": [
+    {
+      "object": {
+      	"name":"objects.todos",
+      	"properties":[
+      		{
+      			"indexed":false,
+      			"name":"title",
+      			"type":"string"
+      		},
+      		{
+      			"indexed":false,
+      			"name":"completed",
+      			"type":"boolean"
+      		}
+      	]
+	  }
+	}
+  ]
+}
