@@ -1,0 +1,13 @@
+[
+    {
+        "name": "todos",
+        "title": "Todo-list",
+        "description": "Simple todo-list application backend.",
+        "platforms": ["jquery", "backbone"],
+        "repositories": {
+            "backbone": "git://github.com/Ventures/enginio_Backbone_Todos.git",
+            "jquery": "git://github.com/Ventures/enginio_jQuery_Todos.git"
+        },
+        "version": "0.1.0"
+    }
+]
