@@ -9,10 +9,10 @@
       "qml"
     ],
     "repositories" : {
-      "backbone" : "git://github.com/Ventures/enginio_Backbone_Todos.git",
-      "jquery" : "git://github.com/Ventures/enginio_jQuery_Todos.git",
-      "qt" : "git://github.com/Ventures/enginio-qt-cpp-todos.git",
-      "qml" : "git://github.com/Ventures/enginio-qt-qml-todos.git"
+      "backbone" : "https://github.com/enginio/enginio-backbone-todos.git",
+      "jquery" : "https://github.com/enginio/enginio-jquery-todos.git",
+      "qt" : "https://github.com/enginio/enginio-qt-cpp-todos.git",
+      "qml" : "https://github.com/enginio/enginio-qt-qml-todos.git"
     },
     "title" : "Todos",
     "version" : "0.1.0"
