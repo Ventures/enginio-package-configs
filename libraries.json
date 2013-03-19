@@ -1,7 +1,7 @@
 [
     {
         "platform": "qt",
-        "repository": "https://github.com/Ventures/enginio_qt.git",
+        "repository": "https://github.com/enginio/enginio-qt.git",
         "version": "0.1.0"
     }
 ]
