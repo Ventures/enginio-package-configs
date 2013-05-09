@@ -1,6 +1,6 @@
 [
   {
-    "description" : "Simple todo-list example. Demonstrates how to do basic data storage and query operations from various software platforms to Enginio service.",
+    "description" : "Simple todo-list sample app. Demonstrates basic how to do basic object storage and query operations with Enginio service.",
     "name" : "todos",
     "platforms" : [
       "jquery",
@@ -15,6 +15,21 @@
       "qml" : "https://github.com/enginio/enginio-qt-qml-todos.git"
     },
     "title" : "Todos",
+    "version" : "0.1.0"
+  },
+
+    {
+    "description" : "Image Gallery app. Shows how file upload and download operations can be executed with Enginio.",
+    "name" : "image-gal",
+    "platforms" : [
+      "qt",
+      "qml"
+    ],
+    "repositories" : {
+      "qt" : "https://github.com/enginio/enginio-qt-cpp-image-gal.git",
+      "qml" : "https://github.com/enginio/enginio-qt-qml-image-gal.git"
+    },
+    "title" : "Image Gallery",
     "version" : "0.1.0"
   }
 ]

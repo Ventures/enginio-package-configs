@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "type": "schemas"
+  },
+  "objects": [
+    {
+      "object": {
+      	"name":"objects.image",
+      	"properties":[
+      		{
+      			"indexed":false,
+      			"name":"name",
+      			"type":"string"
+      		},
+      		{
+      			"indexed":false,
+      			"name":"file",
+      			"type":"ref",
+            "objectType":"files"
+      		}
+      	]
+	  }
+	}
+  ]
+}
