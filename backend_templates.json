@@ -30,6 +30,6 @@
       "qml" : "https://github.com/enginio/enginio-qt-qml-image-gal.git"
     },
     "title" : "Image Gallery",
-    "version" : "0.1.0"
+    "version" : "0.1.1"
   }
 ]
