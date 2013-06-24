@@ -11,8 +11,8 @@
     "repositories" : {
       "backbone" : "https://github.com/enginio/enginio-backbone-todos.git",
       "jquery" : "https://github.com/enginio/enginio-jquery-todos.git",
-      "qt" : "https://github.com/enginio/enginio-qt-cpp-todos.git",
-      "qml" : "https://github.com/enginio/enginio-qt-qml-todos.git"
+      "qt" : "https://github.com/enginio/enginio-qt.git",
+      "qml" : "https://github.com/enginio/enginio-qt.git"
     },
     "title" : "Todos",
     "version" : "0.1.0"
@@ -26,10 +26,10 @@
       "qml"
     ],
     "repositories" : {
-      "qt" : "https://github.com/enginio/enginio-qt-cpp-image-gal.git",
-      "qml" : "https://github.com/enginio/enginio-qt-qml-image-gal.git"
+      "qt" : "https://github.com/enginio/enginio-qt.git",
+      "qml" : "https://github.com/enginio/enginio-qt.git"
     },
     "title" : "Image Gallery",
-    "version" : "0.1.1"
+    "version" : "0.1.0"
   }
 ]
