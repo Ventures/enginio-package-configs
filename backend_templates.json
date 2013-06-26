@@ -5,14 +5,12 @@
     "platforms" : [
       "jquery",
       "backbone",
-      "qt",
-      "qml"
+      "qt"
     ],
     "repositories" : {
       "backbone" : "https://github.com/enginio/enginio-backbone-todos.git",
       "jquery" : "https://github.com/enginio/enginio-jquery-todos.git",
-      "qt" : "https://github.com/enginio/enginio-qt.git",
-      "qml" : "https://github.com/enginio/enginio-qt.git"
+      "qt" : "https://github.com/enginio/enginio-qt.git"
     },
     "title" : "Todos",
     "version" : "0.1.0"
@@ -22,12 +20,10 @@
     "description" : "Image Gallery app. Shows how file upload and download operations can be executed with Enginio.",
     "name" : "image-gal",
     "platforms" : [
-      "qt",
-      "qml"
+      "qt"
     ],
     "repositories" : {
-      "qt" : "https://github.com/enginio/enginio-qt.git",
-      "qml" : "https://github.com/enginio/enginio-qt.git"
+      "qt" : "https://github.com/enginio/enginio-qt.git"
     },
     "title" : "Image Gallery",
     "version" : "0.1.0"
