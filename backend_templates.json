@@ -10,7 +10,7 @@
     "repositories" : {
       "backbone" : "https://github.com/enginio/enginio-backbone-todos.git",
       "jquery" : "https://github.com/enginio/enginio-jquery-todos.git",
-      "qt" : "https://github.com/enginio/enginio-qt.git"
+      "qt" : "https://git.gitorious.org/qt/qtenginio.git"
     },
     "title" : "Todos",
     "version" : "0.1.0"
@@ -23,7 +23,7 @@
       "qt"
     ],
     "repositories" : {
-      "qt" : "https://github.com/enginio/enginio-qt.git"
+      "qt" : "https://git.gitorious.org/qt/qtenginio.git"
     },
     "title" : "Image Gallery",
     "version" : "0.1.0"
