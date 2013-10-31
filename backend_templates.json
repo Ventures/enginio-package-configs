@@ -27,5 +27,16 @@
     },
     "title" : "Image Gallery",
     "version" : "0.1.0"
-  }
+  },
+
+  {
+    "description" : "Simple address book sample app. Demonstrates how to sort objects in EnginioModel",
+    "name" : "addressbook",
+    "platforms" : [ "qt" ],
+    "repositories" : {
+      "qt" : "https://git.gitorious.org/qt/qtenginio.git"
+    },
+    "title" : "Cloud Address Book",
+    "version" : "0.1.0"
+  },
 ]

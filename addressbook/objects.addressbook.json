@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "type": "objects.addressbook"
+  },
+  "objects": [
+    {
+      "object": {
+	  "firstName": "José",
+	  "lastName": "Senhor",
+	  "email": "jose.senhor@crbmd.gov",
+	  "phone": "864669606263",
+	  "address": "Central Registry of Births, Marriages and Deaths"
+      }
+    },
+    {
+      "object": {
+	  "firstName": "Dante",
+	  "lastName": "Alighieri",
+	  "email": "dante.alighieri@travel.com",
+	  "phone": "7464764",
+	  "address": "Ring 3, Florence"
+      }
+    },
+    {
+      "object": {
+	  "firstName": "Johnny",
+	  "lastName": "Mnemonic",
+	  "email": "johnny.mnemonic@Pharma-Kon.com",
+	  "phone": "+47 1234567890",
+	  "address": "New Order street 47, Newark"
+      }
+    }
+  ]
+}
