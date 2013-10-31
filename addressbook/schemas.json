@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "type": "schemas"
+  },
+  "objects": [
+    {
+      "object": {
+	  "name":"objects.addressbook",
+	  "properties": [
+	      { "indexed":true, "name":"firstName", "type":"string"},
+	      { "indexed":true, "name":"lastName", "type":"string"},
+	      { "indexed":true, "name":"email", "type":"string"},
+	      { "indexed":true, "name":"phone", "type":"string"},
+	      { "indexed":true, "name":"address", "type":"string"}
+	  ]
+      }
+    }
+  ]
+}
+
