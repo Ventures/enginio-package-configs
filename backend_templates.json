@@ -15,8 +15,8 @@
     "title" : "Todos",
     "version" : "0.1.0"
   },
-
-    {
+  
+  {
     "description" : "Image Gallery app. Shows how file upload and download operations can be executed with Enginio.",
     "name" : "image-gal",
     "platforms" : [
@@ -38,5 +38,5 @@
     },
     "title" : "Cloud Address Book",
     "version" : "0.1.0"
-  },
+  }
 ]
