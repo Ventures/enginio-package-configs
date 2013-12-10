@@ -4,13 +4,11 @@
     "name" : "todos",
     "platforms" : [
       "jquery",
-      "backbone",
-      "qt"
+      "backbone"
     ],
     "repositories" : {
       "backbone" : "https://github.com/enginio/enginio-backbone-todos.git",
-      "jquery" : "https://github.com/enginio/enginio-jquery-todos.git",
-      "qt" : "https://git.gitorious.org/qt/qtenginio.git"
+      "jquery" : "https://github.com/enginio/enginio-jquery-todos.git"
     },
     "title" : "Todos",
     "version" : "0.1.0"
@@ -19,12 +17,8 @@
   {
     "description" : "Image Gallery app. Shows how file upload and download operations can be executed with Enginio.",
     "name" : "image-gal",
-    "platforms" : [
-      "qt"
-    ],
-    "repositories" : {
-      "qt" : "https://git.gitorious.org/qt/qtenginio.git"
-    },
+    "platforms" : [],
+    "repositories" : {},
     "title" : "Image Gallery",
     "version" : "0.1.0"
   },
@@ -32,10 +26,8 @@
   {
     "description" : "Simple address book sample app. Demonstrates how to sort objects in EnginioModel",
     "name" : "addressbook",
-    "platforms" : [ "qt" ],
-    "repositories" : {
-      "qt" : "https://git.gitorious.org/qt/qtenginio.git"
-    },
+    "platforms" : [],
+    "repositories" : {},
     "title" : "Cloud Address Book",
     "version" : "0.1.0"
   }
